@@ -1,5 +1,5 @@
 ---
-order: 1000
+order: 1000000
 expanded: true
 route: /
 ---
@@ -14,17 +14,11 @@ SillyTavern is a fantastic LLM Frontend for Power-Users, and [its documentation]
 
 This site, which is not affiliated with SillyTavern, is intended to bridge that gap in knowledge, between the technical and the practical, to help you get to where you want to go. It does not seek to replace the official documentation, and nothing found here will be supported by any official help-channels, but at least you'll get some idea of where to begin.
 
-### Guides
+## What's hosted here?
 
-<brief explanation of what to expect, particularly that all guides are community-contributed, and while they are reviewed to screen for malicious content and particularly alarming lapses in judgment, there is no quality assurance and they are not guaranteed to work, with risks, research, and assembly left to the user to resolve>
+[Guides](/guides/index.md) to customising SillyTavern and making it do things that are out-of-scope for the base system. From writing effective lorebooks to accessing your chats while away from home, if there's something SillyTavern-specific that you've wanted to do, there may be a guide for it in here.
 
-<link to guides/ here>
-
-### Extensions
-
-<brief explanation of what to expect, particularly that none of these extensions are endorsed, just that they are popular and have active maintenance from their creators>
-
-<link to extensions/ here>
+[Lists of Extensions](/extensions/index.md) that have some popularity in the community. It can be hard to navigate through Discord channels and Reddit Threads to find everything that's available, so check here to see if there's something you should know about.
 
 ## Official Resources
 
