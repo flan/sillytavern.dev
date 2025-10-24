@@ -10,7 +10,7 @@ route: /
 
 You've found a community-maintained repository of guides and resources intended to help with tailoring [SillyTavern](https://sillytavern.app/) to your specific use-case.
 
-SillyTavern is a fantastic LLM Frontend for Power-Users, and [its documentation](https://docs.sillytavern.app/) covers every feature very well, but because it is a customisable platform for interacting with language-models, it needs to remain use-case agnostic: it is not a dedicated roleplaying system, nor is it only a way to quickly flip between system-prompts in conducting model research, even though it can easily be adapted to either or both goals.
+SillyTavern is a fantastic LLM Frontend for Power-Users, and [its documentation](https://docs.sillytavern.app/) covers every feature in great detail, but because it is a customisable platform for interacting with language-models, it needs to remain use-case agnostic: it is not a dedicated roleplaying system, nor is it only a way to quickly flip between system-prompts in conducting model research, even though it can easily be adapted to either or both goals.
 
 This site, which is not affiliated with SillyTavern, is intended to bridge that gap in knowledge, between the technical and the practical, to help you get to where you want to go. It does not seek to replace the official documentation, and nothing found here will be supported by any official help-channels, but at least you'll get some idea of where to begin.
 
